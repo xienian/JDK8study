@@ -13,11 +13,6 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
 
-
-sssaaacccdddeeefffggg
-
-2a2b2c2d2e
-
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
